@@ -16,7 +16,6 @@ if Photo.count > 0
   else 
     puts "Your data is safe. Goodbye."
     # exit
-    return
   end
 end
 

@@ -1,10 +1,19 @@
 .card.photo {
   width: 500px;
   margin: 10px auto;
+  margin-bottom: 20px;
 }
 
 .card {
   img {
     max-width: 100%;
   }
+}
+
+.form-comment {
+  margin-bottom: 15px;
+}
+
+.comment p {
+  float: right; 
 }
